@@ -7,7 +7,7 @@
 
 .header__logo {
     display: block;
-    width: 148px;
+    width: 137px;
 }
 .header__logo-image {
     display: block;
@@ -57,10 +57,13 @@
 .address p {
     margin: 0;
 }
-
+.header__links-item_no-bullit{
+    list-style: none;
+}
 .header__address {
     justify-self: end;
     max-width: 240px;
+    margin-right: 20px;
 }
 
 .overlay {
