@@ -68,4 +68,6 @@ ono-tebe-nado-ad/
 ├── index.html           # Главная страница
 └── README.md            # Описание проекта
 ```
+Репозиторий
 
+[ono-tebe-nado-ad](https://github.com/KokaKara222/ono-tebe-nado-ad)
