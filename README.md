@@ -70,4 +70,4 @@ ono-tebe-nado-ad/
 ```
 Репозиторий
 
-[ono-tebe-nado-ad](https://github.com/KokaKara222/ono-tebe-nado-ad)
+https://github.com/KokaKara222/ono-tebe-nado-ad
